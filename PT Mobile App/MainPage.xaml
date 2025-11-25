@@ -22,7 +22,7 @@
                         WidthRequest="90"
                         HorizontalOptions="Center"
                         VerticalOptions="Center">
-                    <Image Source="dotnet_bot.png"
+                    <Image Source="esport.jpg"
                            Aspect="AspectFill"
                            HeightRequest="90"
                            WidthRequest="90"/>
@@ -77,25 +77,25 @@
             <Grid ColumnDefinitions="*,*,*,*" Padding="15,10" ColumnSpacing="10">
                 <VerticalStackLayout Grid.Column="0" Spacing="5">
                     <Border Stroke="#ddd" StrokeShape="RoundRectangle 35" HeightRequest="70" WidthRequest="70">
-                        <Image Source="dotnet_bot.png" Aspect="AspectFill"/>
+                        <Image Source="esport.jpg" Aspect="AspectFill"/>
                     </Border>
                     <Label Text="Single#1" FontSize="11" HorizontalOptions="Center" TextColor="Black"/>
                 </VerticalStackLayout>
                 <VerticalStackLayout Grid.Column="1" Spacing="5">
                     <Border Stroke="#ddd" StrokeShape="RoundRectangle 35" HeightRequest="70" WidthRequest="70">
-                        <Image Source="dotnet_bot.png" Aspect="AspectFill"/>
+                        <Image Source="esport.jpg" Aspect="AspectFill"/>
                     </Border>
                     <Label Text="Single#2" FontSize="11" HorizontalOptions="Center" TextColor="Black"/>
                 </VerticalStackLayout>
                 <VerticalStackLayout Grid.Column="2" Spacing="5">
                     <Border Stroke="#ddd" StrokeShape="RoundRectangle 35" HeightRequest="70" WidthRequest="70">
-                        <Image Source="dotnet_bot.png" Aspect="AspectFill"/>
+                        <Image Source="esport.jpg" Aspect="AspectFill"/>
                     </Border>
                     <Label Text="Single#3" FontSize="11" HorizontalOptions="Center" TextColor="Black"/>
                 </VerticalStackLayout>
                 <VerticalStackLayout Grid.Column="3" Spacing="5">
                     <Border Stroke="#ddd" StrokeShape="RoundRectangle 35" HeightRequest="70" WidthRequest="70">
-                        <Image Source="dotnet_bot.png" Aspect="AspectFill"/>
+                        <Image Source="esport.jpg" Aspect="AspectFill"/>
                     </Border>
                     <Label Text="Single#4" FontSize="11" HorizontalOptions="Center" TextColor="Black"/>
                 </VerticalStackLayout>
@@ -107,17 +107,17 @@
                   RowSpacing="2"
                   Margin="0,15,0,0">
 
-                <Image Grid.Row="0" Grid.Column="0" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#eee"/>
-                <Image Grid.Row="0" Grid.Column="1" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#ddd"/>
-                <Image Grid.Row="0" Grid.Column="2" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#ccc"/>
+                <Image Grid.Row="0" Grid.Column="0" Source="a.jpg" Aspect="AspectFill" BackgroundColor="#eee"/>
+                <Image Grid.Row="0" Grid.Column="1" Source="b.jpg" Aspect="AspectFill" BackgroundColor="#ddd"/>
+                <Image Grid.Row="0" Grid.Column="2" Source="c.jpg" Aspect="AspectFill" BackgroundColor="#ccc"/>
 
-                <Image Grid.Row="1" Grid.Column="0" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#bbb"/>
-                <Image Grid.Row="1" Grid.Column="1" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#aaa"/>
-                <Image Grid.Row="1" Grid.Column="2" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#999"/>
+                <Image Grid.Row="1" Grid.Column="0" Source="d.jpg" Aspect="AspectFill" BackgroundColor="#bbb"/>
+                <Image Grid.Row="1" Grid.Column="1" Source="e.jpg" Aspect="AspectFill" BackgroundColor="#aaa"/>
+                <Image Grid.Row="1" Grid.Column="2" Source="f.jpg" Aspect="AspectFill" BackgroundColor="#999"/>
 
-                <Image Grid.Row="2" Grid.Column="0" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#888"/>
-                <Image Grid.Row="2" Grid.Column="1" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#777"/>
-                <Image Grid.Row="2" Grid.Column="2" Source="dotnet_bot.png" Aspect="AspectFill" BackgroundColor="#666"/>
+                <Image Grid.Row="2" Grid.Column="0" Source="g.jpg" Aspect="AspectFill" BackgroundColor="#888"/>
+                <Image Grid.Row="2" Grid.Column="1" Source="h.jpg" Aspect="AspectFill" BackgroundColor="#777"/>
+                <Image Grid.Row="2" Grid.Column="2" Source="i.jpg" Aspect="AspectFill" BackgroundColor="#666"/>
             </Grid>
 
         </VerticalStackLayout>
