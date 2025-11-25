@@ -6,5 +6,10 @@
         {
             InitializeComponent();
         }
+
+        private void ReadLess_Tapped(object sender, EventArgs e)
+        {
+            BioExpander.IsExpanded = false;
+        }
     }
 }
